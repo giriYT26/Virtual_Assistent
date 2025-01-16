@@ -66,16 +66,16 @@ How to Run:
   Dynamically resolving website domain extensions.
   
 Future Scope:
-  Integrating natural language processing (NLP) for advanced command understanding.
-  Adding multi-language support.
-  Including calendar and email management features.
-  Developing a mobile-friendly version.
+    Integrating natural language processing (NLP) for advanced command understanding.
+    Adding multi-language support.
+    Including calendar and email management features.
+    Developing a mobile-friendly version.
   
 Acknowledgments:
-  Python community for extensive library support.
-  OpenWeatherMap for providing real-time weather data.
-  Wikipedia for its comprehensive knowledge base.
+    Python community for extensive library support.
+    OpenWeatherMap for providing real-time weather data.
+    Wikipedia for its comprehensive knowledge base.
   
 For Contact queries, suggestions, or contributions, please contact:
-  Name: S Giridharan 
-  Discord: SpectroGamer
+    Name: S Giridharan 
+    Discord: SpectroGamer
