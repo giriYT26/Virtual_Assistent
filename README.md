@@ -21,13 +21,12 @@ GUI Integration:
   Theme Customization: Offers light, dark, and system themes for the interface.
   
 Workflow:
-
-    Input:
+    1)Input:
       The user provides a voice command through a microphone.
-    Processing:
+    2)Processing:
       The command is processed using speech_recognition.
       Tasks are identified using keyword matching.  
-    Execution:
+    3)Execution:
       Websites are opened.
       Weather updates are fetched.
       Queries are resolved via Wikipedia.
