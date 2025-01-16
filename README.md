@@ -1,18 +1,27 @@
 Virtual Assistant Project
 
 Project Overview:
+
 The Virtual Assistant Project is a Python-based application designed to provide users with voice-activated support for tasks like retrieving information, opening websites, providing weather updates, and answering questions using Wikipedia. 
 The project integrates advanced libraries for speech recognition, text-to-speech conversion, and a graphical user interface built with CustomTkinter.
+
 Features:
+
   Voice Command Recognition: Recognizes and processes user voice commands for various tasks.
   Dynamic Website Access: Opens websites with common domain extensions dynamically.
   Weather Updates: Provides real-time weather data for any city using the OpenWeatherMap API.
+  
 Wikipedia Search: 
+
   Fetches concise answers to user queries from Wikipedia.
+  
 GUI Integration: 
+
   Displays assistant responses and user input in an intuitive graphical interface.
   Theme Customization: Offers light, dark, and system themes for the interface.
+  
 Workflow:
+
     Input:
       The user provides a voice command through a microphone.
     Processing:
