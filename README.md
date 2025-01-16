@@ -21,7 +21,6 @@ GUI Integration:
   Theme Customization: Offers light, dark, and system themes for the interface.
   
 Workflow:
-
     Input:
       The user provides a voice command through a microphone.
     Processing:
