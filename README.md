@@ -40,20 +40,20 @@ Enhanced error handling for invalid or ambiguous commands.
 Integrated Wikipedia disambiguation resolution.
 Implemented API-based real-time weather updates.
 Added GUI theme-switching functionality for better user experience.
-Technologies Used
 
-Languages:
-  Python
-  
-Libraries:
-  pyttsx3 for text-to-speech conversion
-  speech_recognition for voice command processing
-  CustomTkinter for GUI development
-  wikipedia for querying information
-  requests for API communication
-  
-APIs:
-  OpenWeatherMap for weather data
+Technologies Used:
+            *Languages:
+              Python
+              
+            *Libraries:
+              pyttsx3 for text-to-speech conversion
+              speech_recognition for voice command processing
+              CustomTkinter for GUI development
+              wikipedia for querying information
+              requests for API communication
+              
+            *APIs:
+              OpenWeatherMap for weather data
   
 How to Run:
   Install the required libraries using pip install pyttsx3 speechrecognition customtkinter wikipedia requests.
