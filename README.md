@@ -77,4 +77,4 @@ Acknowledgments:
   Wikipedia for its comprehensive knowledge base.
   
 For Contact queries, suggestions, or contributions, please contact:
-  Name: S GiridharanDiscord: SpectroGamer
+Name: S GiridharanDiscord: SpectroGamer
