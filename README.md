@@ -7,20 +7,20 @@ The project integrates advanced libraries for speech recognition, text-to-speech
 
 ## Features:
 
-  Voice Command Recognition: Recognizes and processes user voice commands for various tasks.
-  Dynamic Website Access: Opens websites with common domain extensions dynamically.
-  Weather Updates: Provides real-time weather data for any city using the OpenWeatherMap API.
+  * Voice Command Recognition: Recognizes and processes user voice commands for various tasks.
+  * Dynamic Website Access: Opens websites with common domain extensions dynamically.
+  * Weather Updates: Provides real-time weather data for any city using the OpenWeatherMap API.
   
-#Wikipedia Search: 
+## Wikipedia Search: 
 
   Fetches concise answers to user queries from Wikipedia.
   
-#GUI Integration: 
+## GUI Integration: 
 
   Displays assistant responses and user input in an intuitive graphical interface.
   Theme Customization: Offers light, dark, and system themes for the interface.
   
-#Workflow:
+## Workflow:
   1)Input:
     The user provides a voice command through a      microphone.
   2)Processing:
@@ -31,17 +31,17 @@ The project integrates advanced libraries for speech recognition, text-to-speech
     Weather updates are fetched.
     Queries are resolved via Wikipedia.
       
-#Output: 
+## Output: 
   Responses are displayed in the GUI and spoken aloud.
   
-#Enhancements:
+## Enhancements:
  *Added support for multiple domain extensions in dynamic website access.
  *Enhanced error handling for invalid or ambiguous commands.
  *Integrated Wikipedia disambiguation  resolution.
  *Implemented API-based real-time weather updates.
  *Added GUI theme-switching functionality for better user experience.
 
-#Technologies Used:
+## Technologies Used:
             *Languages:
               Python
               
@@ -55,7 +55,7 @@ The project integrates advanced libraries for speech recognition, text-to-speech
             *APIs:
               OpenWeatherMap for weather data
   
-#How to Run:
+## How to Run:
   Install the required libraries using pip install pyttsx3 speechrecognition customtkinter wikipedia requests.
   Obtain an OpenWeatherMap API key and replace the placeholder in the code.
   Run the Python script: python assistant.py.
@@ -76,6 +76,6 @@ Acknowledgments:
     OpenWeatherMap for providing real-time weather data.
     Wikipedia for its comprehensive knowledge base.
   
-For Contact queries, suggestions, or contributions, please contact:
+### For Contact queries, suggestions, or  ### contributions, please contact:
     Name: S Giridharan 
     Discord: SpectroGamer
