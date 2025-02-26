@@ -42,15 +42,15 @@ The project integrates advanced libraries for speech recognition, text-to-speech
  *Added GUI theme-switching functionality for better user experience.
 
 ## Technologies Used:
-            *Languages:
+            * Languages:
               Python
               
-            *Libraries:
+            * Libraries:
               pyttsx3 for text-to-speech conversion
-              speech_recognition for voice command processing
-              CustomTkinter for GUI development
-              wikipedia for querying information
-              requests for API communication
+              * speech_recognition for voice command processing
+              * CustomTkinter for GUI development
+              * wikipedia for querying information
+              * requests for API communication
               
             *APIs:
               OpenWeatherMap for weather data
@@ -76,6 +76,6 @@ Acknowledgments:
     OpenWeatherMap for providing real-time weather data.
     Wikipedia for its comprehensive knowledge base.
   
-### For Contact queries, suggestions, or  ### contributions, please contact:
+### For Contact queries, suggestions, or contributions, please contact:
     Name: S Giridharan 
     Discord: SpectroGamer
