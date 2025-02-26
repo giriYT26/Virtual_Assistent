@@ -21,7 +21,7 @@ The project integrates advanced libraries for speech recognition, text-to-speech
   Theme Customization: Offers light, dark, and system themes for the interface.
   
 ## Workflow:
-  1)Input:
+  1)** Input: **
     The user provides a voice command through a      microphone.
   2)Processing:
     The command is processed using speech_recognition.
