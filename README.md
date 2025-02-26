@@ -1,8 +1,8 @@
 ## Virtual Assistant 
 
-#Project Overview:
+# Project Overview:
 
- The Virtual Assistant Project is a  Python-based application designed to provide users with voice-activated support for tasks like retrieving information, opening websites, providing weather updates, and answering questions using Wikipedia. 
+ -- The Virtual Assistant Project is a  Python-based application designed to provide users with voice-activated support for tasks like retrieving information, opening websites, providing weather updates, and answering questions using Wikipedia. 
 The project integrates advanced libraries for speech recognition, text-to-speech conversion, and a graphical user interface built with CustomTkinter.
 
 #Features:
