@@ -21,12 +21,12 @@ The project integrates advanced libraries for speech recognition, text-to-speech
   Theme Customization: Offers light, dark, and system themes for the interface.
   
 ## Workflow:
-  1)** Input: **
+  1) Input:
     The user provides a voice command through a      microphone.
-  2)Processing:
+  2) Processing:
     The command is processed using speech_recognition.
     Tasks are identified using keyword matching.  
-  3)Execution:
+  3) Execution:
     Websites are opened.
     Weather updates are fetched.
     Queries are resolved via Wikipedia.
@@ -65,16 +65,21 @@ The project integrates advanced libraries for speech recognition, text-to-speech
   Handling ambiguous or incomplete commands.
   Dynamically resolving website domain extensions.
   
-Future Scope:
-    Integrating natural language processing (NLP) for advanced command understanding.
-    Adding multi-language support.
-    Including calendar and email management features.
-    Developing a mobile-friendly version.
+## Demo Video
+ https://github.com/user-attachments/assets/3f2361b7-c825-4670-a7d7-edd3acb78d0a
+
+- This is a video demo taken during the time of testing the program
+
+## Future Scope:
+   - Integrating natural language processing (NLP) for advanced command understanding.
+   - Adding multi-language support.
+   - Including calendar and email management features.
+   - Developing a mobile-friendly version.
   
-Acknowledgments:
-    Python community for extensive library support.
-    OpenWeatherMap for providing real-time weather data.
-    Wikipedia for its comprehensive knowledge base.
+## Acknowledgments:
+   - Python community for extensive library support.
+   - OpenWeatherMap for providing real-time weather data.
+   - Wikipedia for its comprehensive knowledge base.
   
 ### For Contact queries, suggestions, or contributions, please contact:
     Name: S Giridharan 
