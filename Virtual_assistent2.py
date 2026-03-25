@@ -83,7 +83,7 @@ def open_website(command):
 
 def get_weather(city):
     """Fetch the current weather of a city using OpenWeatherMap API."""
-    api_key = "b578d2328cb84738ace10e75493d8ece"  # Replace with your API key
+    api_key = " # Replace with your API key"
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
     complete_url = f"{base_url}q={city}&appid={api_key}&units=metric"
     response = requests.get(complete_url)
